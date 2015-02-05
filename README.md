@@ -1,3 +1,6 @@
-Taverna Workflow system Workbench User Interface components
+# Moved to Apache Taverna
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/ui/net.sf.taverna.t2.ui-components/
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-workbench](https://github.com/apache/incubator-taverna-workbench)
+
+This repository is kept for historical reasons - see the tags and branches.
